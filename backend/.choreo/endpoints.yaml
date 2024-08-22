@@ -1,5 +1,5 @@
-# Here we are going to mention the endpoints we that we want to deploy and expose
-version:0.1
+version: 0.1
+
 endpoints:
   - name: "REST API"
     port: 8000
